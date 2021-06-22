@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/randomcolorpage-with-react/static/css/main.3938a3a0.chunk.css",
-    "main.js": "/randomcolorpage-with-react/static/js/main.7207a39a.chunk.js",
-    "main.js.map": "/randomcolorpage-with-react/static/js/main.7207a39a.chunk.js.map",
-    "runtime-main.js": "/randomcolorpage-with-react/static/js/runtime-main.2d7fd85b.js",
-    "runtime-main.js.map": "/randomcolorpage-with-react/static/js/runtime-main.2d7fd85b.js.map",
-    "static/js/2.81a6893e.chunk.js": "/randomcolorpage-with-react/static/js/2.81a6893e.chunk.js",
-    "static/js/2.81a6893e.chunk.js.map": "/randomcolorpage-with-react/static/js/2.81a6893e.chunk.js.map",
-    "index.html": "/randomcolorpage-with-react/index.html",
-    "static/css/main.3938a3a0.chunk.css.map": "/randomcolorpage-with-react/static/css/main.3938a3a0.chunk.css.map",
-    "static/js/2.81a6893e.chunk.js.LICENSE.txt": "/randomcolorpage-with-react/static/js/2.81a6893e.chunk.js.LICENSE.txt"
+    "main.css": "./static/css/main.3938a3a0.chunk.css",
+    "main.js": "./static/js/main.7207a39a.chunk.js",
+    "main.js.map": "./static/js/main.7207a39a.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.16279b6b.js",
+    "runtime-main.js.map": "./static/js/runtime-main.16279b6b.js.map",
+    "static/js/2.81a6893e.chunk.js": "./static/js/2.81a6893e.chunk.js",
+    "static/js/2.81a6893e.chunk.js.map": "./static/js/2.81a6893e.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/main.3938a3a0.chunk.css.map": "./static/css/main.3938a3a0.chunk.css.map",
+    "static/js/2.81a6893e.chunk.js.LICENSE.txt": "./static/js/2.81a6893e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.2d7fd85b.js",
+    "static/js/runtime-main.16279b6b.js",
     "static/js/2.81a6893e.chunk.js",
     "static/css/main.3938a3a0.chunk.css",
     "static/js/main.7207a39a.chunk.js"
