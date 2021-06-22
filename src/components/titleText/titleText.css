@@ -1,0 +1,13 @@
+.titleText-h1 {
+    position: relative;
+    z-index: 1;
+    font-family: 'Raleway', sans-serif;
+    font-size: 30pt;
+    user-select: none;
+    transition: transform ease 0.2s;
+}
+
+.titleText-h1:hover {
+    cursor: pointer;
+    transform: scale(1.05);
+}
