@@ -1,0 +1,7 @@
+.background-div {
+    width: 100vw;
+    height: 100vh;
+}
+.background-div:hover {
+    cursor: pointer;
+}
